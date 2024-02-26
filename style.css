@@ -69,3 +69,7 @@ div a:hover{
     color: #141414;
     transition: 0.4s;
 }
+
+.secao-cantores img{
+    width: 100%
+}
